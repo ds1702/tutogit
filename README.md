@@ -1,2 +1,2 @@
 # tutoriel 
-ceci est un tets pour le cours sur git
+ceci est un test  pour le cours sur git et github.
